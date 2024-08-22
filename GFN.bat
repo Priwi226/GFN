@@ -1,0 +1,1 @@
+python3 C:\Users\peter\Downloads\Python\GFN\GFN_NEU.py

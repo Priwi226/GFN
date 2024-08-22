@@ -1,0 +1,20 @@
+Dokumentation 
+WICHTIG:
+Python instalieren + selenium instalieren + chrome + chrome selenium driver MUSS GLEICHE VERION ALS CHROME SEIN UND IN GLAICHEM FOLDER ALS GFN.PY 
+
+    python instalation   ( windows store)
+    in CMD  --   pip install selenium 
+    chrome instalieren
+    chrome selenium driver hochladen und zum gleichem folder kopieren
+    
+anmeldung file :
+	seine anmeldung daten abgeben
+	browser = 0 bedeutet das der browser mach sich nicht an aber arbeitet (leuft nur in CMD/terminal
+	browser = 1 es kommt fenster raus mann kann ales sehen 
+	
+Program automatisch erkant ob man sich anmelden braucht oder abmelden !!!! 
+er kann nicht wissen wann der richtige abmeldung zeit ist BEOBACHTET
+
+program funzuniert auch untem dem CRON
+
+python3 GFN_NEU.py
